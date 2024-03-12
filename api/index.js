@@ -1,4 +1,4 @@
-const serverlesswp = require('serverlesswp');
+const serverlesswp = require('serverlesswp-plus');
 
 const { validate } = require('../util/install.js');
 const { setup } = require('../util/directory.js');
